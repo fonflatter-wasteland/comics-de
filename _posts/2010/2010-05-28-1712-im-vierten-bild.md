@@ -9,3 +9,4 @@ Huch, was grünt da so bunt? Ein flattr-Button!
 Alle sich voreilig Fürchenden seien beruhigt: Die Fred-Comics bleiben natürlich kostenlos und mit gleicher Wunderfetzigkeit beseelt wie eh und je. Nur existiert jetzt eine probierende Möglichkeit, mich, sollte entsprechender Drang bestehen, mit monetären Minimalbeträgen zu beflattrn. 
 Und allein aufgrund des fetzig-flattrigen Namens sei diesem Projekt hiermit eine Chance gewährt.
 [Falls es Sorgen oder Probleme gibt, kommentiert einfach oder schreibt mir eine klitzekleine Mail an <a href="mailto:fonflatter@gmail.com">fonflatter@gmail.com</a>]
+

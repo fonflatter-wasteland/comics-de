@@ -14,3 +14,4 @@ Von <strong>16 bis 18 Uhr</strong> werde ich am Stand der <a href="https://www.f
 Alle Signiertermine, auch den soeben erwähnten, meinigen, findet ihr übrigens <a href="http://www.comic-salon.de/index.asp?FsID=31&spr=1#T20.06.2014"><strong>hier</strong> [klick]</a> 
 
 Ich freuuuu mich.
+

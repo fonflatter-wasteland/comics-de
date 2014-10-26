@@ -8,3 +8,4 @@ Das bisher einzig bestellbare <a href="http://fredshop.spreadshirt.net/de/DE/Sho
 Es wäre fein, wenn ihr mir mitteilen könntet, ob euch das so behagt oder nicht - und vor allem, auf welchen Shirt-Typen und Produkten ihr das Motiv zusätzlich noch gerne hättet. 
 Und noch etwas: Auch das "Fred betrunken"-Motiv kommt demnächst in den Shop, und es wäre wundertoll, wenn ihr hier ebenfalls kundgeben könntet, welche Produkte ihr damit verziert haben möchtet.
 Danke und so.
+

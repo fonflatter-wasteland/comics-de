@@ -9,3 +9,4 @@ Schau einfach in den <a href="http://fredshop.spreadshirt.net/de/DE/Shop"><stron
 Bei Problemen, Anregungen oder Lobhuldigungen, schreib einfach einen Kommentar oder mir eine Mail an fonflatter@gmail.com.
 Und noch etwas: Bei Bestellung mindestens eines Baby-oder Kinderprodukts gibt es bis zum 14. August  20% Nachlass auf die gesamte Lieferung, egal, was da noch so mit drinsteckt. Der entsprechende Gutscheincode lautet <strong>KINDERKRAM2008</strong>. 
 Und so.
+

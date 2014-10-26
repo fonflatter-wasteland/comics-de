@@ -9,3 +9,4 @@ Weil heute <a href="http://www.fonflatter.de/kalender"><strong>Tell-an-old-Joke-
 "Ich bin blind!"
 P.P.S:
 <a href="http://www.fonflatter.de/ausstellung"><img src="http://www.fonflatter.de/bilder/ausstellung4/ausstellung_berlin_s.png"></a>
+

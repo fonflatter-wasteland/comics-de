@@ -10,3 +10,4 @@ P.P.S.:
 Als klitzekleines Weihnachtsgeschenk gibt es [mit Gruß an G, der es sich wünschte] ein neues Fred-Hintergrundbild, diesmal mit <a href="http://www.fonflatter.de/hintergrundbilder">
 <strong>winterlichem Motiv</strong>.
 <img src="http://www.fonflatter.de/bilder/hg/winter_s.png"></a>
+

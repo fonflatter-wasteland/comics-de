@@ -14,3 +14,4 @@ Auch in diesem Jahr gibt es wieder einen Fred-Adventskalender. Diesmal handelt e
 Los geht es hinter folgendem Link: 
 <a href="http://www.fonflatter.de/advent08"><strong>www.fonflatter.de/advent08</strong></a>
 Fiel Froide!
+

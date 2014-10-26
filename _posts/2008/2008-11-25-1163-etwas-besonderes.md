@@ -8,3 +8,4 @@ Carsten hat in dem durchaus interessant wirkenden Computerspiel <a href="http://
 <img src="http://www.fonflatter.de/bilder/kaefer_schaf.jpg">
 Vor ein paar Tagen bereits wurde auch Käfer gesichtet. Nessaya fand ihn in einem Überraschungsei, auf der Nase eines Schafs. 
 Danke an euch beide!
+

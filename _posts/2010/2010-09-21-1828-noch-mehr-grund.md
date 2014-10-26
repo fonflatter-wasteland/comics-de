@@ -12,3 +12,4 @@ Ich werde noch eine bessere Erläuterung schreiben, wollte aber zumindest erwäh
 Und auch wenn du es gut meinst, lieber robby, ist doch der Archivinhalt besser lesbar, wenn du anstelle von Fastimmergroßbuchstaben Normalschreibweise verwendest. [Danke.]
 Ich habe dank euch, liebe Fredfreunde, gestern fortwährend herumgegrinst und werde heute damit weitermachen.
 Und so.
+

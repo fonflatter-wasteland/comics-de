@@ -8,3 +8,4 @@ Dieses fetzige Jubiläum nehme ich zum Anlass, dieses wundertolle <strong>Fredge
 Die Gewinnfrage lautet: Was ist dein Lieblingsfredcomic?
 Schickt die Antwort zusammen mit ein paar netten Worten an <strong>fonflatter[kringeldings]gmail.com</strong>, und ich werde dann fröhlich auslosen. Einsendeschluss ist der 31.10.2009, 23:59 Uhr MEZ.
 Und so.
+

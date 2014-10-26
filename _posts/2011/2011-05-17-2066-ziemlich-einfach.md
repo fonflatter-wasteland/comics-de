@@ -13,3 +13,4 @@ Das ganze Dingsbums kostet lächerliche 2€ und fetzt.
 
 Am Sonntag, 22.05. werde ich - wie bereits erwähnt - im Zimmertheater Tübingen bei <a href="http://www.das-letz-niest.de/"><strong>Das Letz Niest V</strong></a> ein bisschen dessen vorlesen, was ich sonst unter <a href="http://morast.twoday.net">morast.twoday.net</a> niederschreibe. 
 Kommt vorbei und lächelt mir Mut zu.
+

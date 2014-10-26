@@ -8,3 +8,4 @@ Ich wünsche euch und euren Lieben also ein bezaubernd schönes Weihnachtsfest u
 <img src="http://www.fonflatter.de/bilder/frohesfest.png">
 Und weil ich so ein netter Kerl bin, schenke ich euch auch etwas, nämlich den fetzigen <a href="http://www.fonflatter.de/dateien/kalender_fonflatter_2010.pdf"><strong>Fred-Kalender 2010</strong> [pdf | 900kB]</a>.
 Und so.
+

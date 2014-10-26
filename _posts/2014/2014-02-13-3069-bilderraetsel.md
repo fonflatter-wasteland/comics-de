@@ -15,3 +15,4 @@ PPS:
 Für alle, die es nicht wissen: Es gibt einen <a href="http://www.fonflatter.de/kalender" title="Fredkalender 2014"><strong>hyperfetzigen Fredkalender 2014</strong></a>.
 Dessen aktuelles Kalenderblatt sieht folgendermaßen aus [und kann mit einem freundlichen Klick kostenlos heruntergeladen werden]:
 <a href="http://www.fonflatter.de/dateien/fredkalender2014/Fredkalender2014_02_1.pdf"><img src="http://www.fonflatter.de/dateien/fredkalender2014/Fredkalender2014_02_1s.jpg"></a>.
+

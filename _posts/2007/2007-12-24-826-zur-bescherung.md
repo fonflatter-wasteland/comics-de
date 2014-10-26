@@ -7,3 +7,4 @@ Diesen könnt ihr euch ab sofort als pdf-Datei unter <a href="http://www.fonflat
 So habt ihr 2008 täglich auch offline Freude an Fred und seinen Freunden.
 Und so.
 <img src="http://www.fonflatter.de/bilder/weihnachtsgruss.jpg" alt="Prohes Fäst">
+

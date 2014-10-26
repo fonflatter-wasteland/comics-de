@@ -9,3 +9,4 @@ Dank Kumbartha und seiner Fledermaus Chirop präsentiere ich heute einen wunderf
 P.P.S.:
 <a href="http://www.fonflatter.de/advent08"><img src="http://www.fonflatter.de/adv08/kaefer.jpg"></a>
 Heute öffnet sich das <a href="http://www.fonflatter.de/advent08"><strong>23.</strong></a> Türchen. Feinfeinfein.
+

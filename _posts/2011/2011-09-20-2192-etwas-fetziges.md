@@ -13,3 +13,4 @@ Den <a href="http://www.fonflatter.de/kalender" title="Fredkalender 2012">hyperf
 Dieser ist fortan kostenlos herunterlad-, ausdruck- und verteilbar. Allerdings gibt es auch erstmalig die Option, ihn direkt bei mir fertig gebunden zu bestellen, indem ihr eine entsprechende Mail an <a href="mailto:fonflatter@gmail.com"><strong>fonflatter@gmail.com</strong></a> schickt. Mehr Infos dazu gibt es in naher Zukumpft.
 
 Nun aber wuhuu!t fleißig in der Gegend herum, denn:
+
