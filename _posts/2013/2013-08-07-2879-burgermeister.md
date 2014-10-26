@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2879: Bürgermeister"
 mouseover: "Und anscheinend auch noch Schirmherren."
 ---

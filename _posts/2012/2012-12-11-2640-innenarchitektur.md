@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2640: Innenarchitektur"
 mouseover: "S-Tau: Ein geschwungenes Seil."
 ---

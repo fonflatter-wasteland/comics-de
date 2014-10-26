@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#817: Der ultimative Schutz"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1841: Vor allen anderen"
 mouseover: "Nachteile stinken."
 ---

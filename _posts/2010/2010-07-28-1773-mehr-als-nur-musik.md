@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1773: Mehr als nur Musik"
 mouseover: "ZZ ist natürlich ein kurzes Schläfchen."
 ---

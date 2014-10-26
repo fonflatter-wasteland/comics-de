@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2545: Der kleine dicke Elefant"
 mouseover: "Hach, ich mag die Geschichte."
 ---

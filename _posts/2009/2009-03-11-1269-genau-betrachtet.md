@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1269: Genau betrachtet"
 ---
 

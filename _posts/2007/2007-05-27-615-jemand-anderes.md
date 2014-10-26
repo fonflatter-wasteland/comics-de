@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#615: Jemand anderes"
 ---
 

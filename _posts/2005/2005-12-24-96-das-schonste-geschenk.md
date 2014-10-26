@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#96: Das schönste Geschenk"
 ---
 <br />

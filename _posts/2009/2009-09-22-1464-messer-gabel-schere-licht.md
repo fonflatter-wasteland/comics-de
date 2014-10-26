@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1464: Messer, Gabel, Schere, Licht"
 ---
 

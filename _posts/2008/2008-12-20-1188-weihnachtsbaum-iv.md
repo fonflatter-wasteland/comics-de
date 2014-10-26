@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1188: Weihnachtsbaum IV"
 ---
 

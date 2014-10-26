@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1281: Zum letzten Mal"
 ---
 

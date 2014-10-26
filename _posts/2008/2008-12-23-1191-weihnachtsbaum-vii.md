@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1191: Weihnachtsbaum VII"
 ---
 

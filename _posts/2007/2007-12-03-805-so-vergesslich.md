@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#805: So vergesslich"
 ---
 

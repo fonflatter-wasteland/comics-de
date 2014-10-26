@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1729: Zwei Stunden lang"
 mouseover: "Irgendwas mit Elefanten, schätze ich."
 ---

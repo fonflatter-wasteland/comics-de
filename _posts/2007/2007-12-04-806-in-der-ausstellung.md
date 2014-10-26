@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#806: In der Ausstellung"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2186: Ausgezeichnet"
 mouseover: "Außerdem ist sie angefüllt mit Fj-Orden."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#3196: Unentschieden"
 mouseover: "So sehen Sieger aus: Käfer."
 ---

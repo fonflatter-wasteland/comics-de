@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#828: Schneezauber II"
 ---
 

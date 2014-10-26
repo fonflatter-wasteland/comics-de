@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#3193: Nationalspieler"
 mouseover: "Schlechte Fußballer werden Vertreter."
 ---

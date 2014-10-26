@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2192: Etwas Fetziges"
 mouseover: "Die Kerze ist übrigens genauso essbar wie der Kuchen. Meint zumindest Fred."
 ---

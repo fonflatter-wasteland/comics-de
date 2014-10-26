@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1848: An manchen Tagen"
 mouseover: "Vergessen besteht ja hauptsächlich aus Essen."
 ---

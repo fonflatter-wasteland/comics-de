@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1894: Warum weinst du?"
 mouseover: "Vielleicht ist es aber auch nur der Regen, der von Freds Nasenspitze... Ach nee, doch nicht."
 ---

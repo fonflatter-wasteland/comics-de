@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#3195: Beinendstück"
 mouseover: "Tut mir leid, aber irgendwann musste dieses Wortspiel mal raus. Kribbelte mir schon die ganze Zeit in den Zehen."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1053: Zu großen Teilen"
 ---
 

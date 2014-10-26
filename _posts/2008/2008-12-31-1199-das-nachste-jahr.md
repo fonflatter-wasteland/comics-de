@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1199: Das nächste Jahr"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1917: Besonders wichtig"
 mouseover: "Verg? Ist das nicht ein kleines Tierchen, das alberne Wortwitzmacher frisst?"
 ---

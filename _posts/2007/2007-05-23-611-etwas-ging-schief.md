@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#611: Etwas ging schief"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1919: Gleichberechtigung"
 mouseover: "Übrigens auch Poees."
 ---

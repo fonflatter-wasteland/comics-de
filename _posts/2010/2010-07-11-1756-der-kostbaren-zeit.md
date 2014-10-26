@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1756: Der kostbaren Zeit"
 mouseover: "&#91;Also bitte nur ganz leise kommentieren.&#93;"
 ---

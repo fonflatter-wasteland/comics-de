@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#943: Käfer im Regen"
 ---
 

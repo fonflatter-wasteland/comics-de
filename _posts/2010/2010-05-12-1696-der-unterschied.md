@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1696: Der Unterschied"
 mouseover: "Quaaak! Quackquack!"
 ---

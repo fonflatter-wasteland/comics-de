@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2079: Verbrauchertipp"
 mouseover: "Allerdings könnte ich mir Spargel durchaus als modisches Haar-Accessoire vorstellen."
 ---

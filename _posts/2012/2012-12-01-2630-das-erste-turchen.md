@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2630: Das erste Türchen"
 mouseover: "Hinter der Türe befindet sich bestimmt auch Kuvertüre."
 ---

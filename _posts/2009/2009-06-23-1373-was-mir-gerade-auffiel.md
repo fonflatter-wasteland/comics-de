@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1373: Was mir gerade auffiel"
 ---
 

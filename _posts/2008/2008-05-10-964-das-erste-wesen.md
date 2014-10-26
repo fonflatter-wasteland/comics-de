@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#964: Das erste Wesen"
 ---
 

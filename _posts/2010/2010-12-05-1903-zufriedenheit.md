@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1903: Zufriedenheit"
 mouseover: "Ich bin auch gerade ein bisschen auffrieden."
 ---

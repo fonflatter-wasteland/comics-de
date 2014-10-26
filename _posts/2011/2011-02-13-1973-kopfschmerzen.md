@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1973: Kopfschmerzen"
 mouseover: "Das sind meine Lieblingskopfschmerzen!"
 ---

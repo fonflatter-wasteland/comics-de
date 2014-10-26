@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1828: Noch mehr Grund"
 mouseover: "Und tagsüber schläft Fred ja ohnehin."
 ---

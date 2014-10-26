@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1308: Fred und das Schild"
 ---
 

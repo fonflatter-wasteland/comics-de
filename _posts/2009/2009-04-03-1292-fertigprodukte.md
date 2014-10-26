@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1292: Fertigprodukte"
 ---
 

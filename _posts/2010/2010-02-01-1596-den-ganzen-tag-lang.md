@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1596: Den ganzen Tag lang"
 ---
 

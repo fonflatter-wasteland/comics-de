@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1324: Wenn der Sommer naht"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2066: Ziemlich einfach"
 mouseover: "Eigentlich ist es nicht einfach, sondern doppelt."
 ---

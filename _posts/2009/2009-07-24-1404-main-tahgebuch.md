@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1404: Main Tahgebuch"
 ---
 

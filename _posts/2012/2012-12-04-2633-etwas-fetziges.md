@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2633: Etwas Fetziges"
 mouseover: "Fred ist ein ImiTier."
 ---

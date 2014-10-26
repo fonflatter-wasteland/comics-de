@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#751: Galerie des Grauens"
 ---
 

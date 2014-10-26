@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2235: Unterbrechung"
 mouseover: "'Hier könnte ihre Schnecke kriechen.'"
 ---

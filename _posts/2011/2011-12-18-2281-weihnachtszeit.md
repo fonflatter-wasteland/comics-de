@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2281: Weihnachtszeit"
 mouseover: "Weihnachtszeit ist geblich die schönste Zeit."
 ---

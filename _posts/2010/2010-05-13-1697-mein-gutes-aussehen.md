@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1697: Mein gutes Aussehen"
 mouseover: "Das Herzchen! Das Herzchen!"
 ---

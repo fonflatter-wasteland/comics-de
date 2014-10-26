@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2277: Weihnachtsmann"
 mouseover: "Normalerweise nimmt man dafür aber Wachs-Mal-Stifte."
 ---

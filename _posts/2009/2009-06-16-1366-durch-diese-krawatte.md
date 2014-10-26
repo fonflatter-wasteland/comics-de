@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1366: Durch diese Krawatte"
 ---
 

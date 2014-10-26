@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#834: Etwas ganz Besonderes"
 ---
 

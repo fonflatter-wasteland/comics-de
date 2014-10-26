@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1284: Raben und Elstern"
 ---
 

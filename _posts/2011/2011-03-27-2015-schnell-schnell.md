@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2015: Schnell, schnell"
 mouseover: "Außerdem spinnt sie total!"
 ---

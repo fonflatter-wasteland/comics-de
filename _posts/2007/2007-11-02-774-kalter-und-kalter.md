@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#774: Kälter und kälter"
 ---
 

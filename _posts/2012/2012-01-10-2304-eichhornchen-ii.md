@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2304: Eichhörnchen II"
 mouseover: "Wenn Fred nur ein Drittel aller versteckten Nahrungsmittel wiederfände, wären das bestimmt lauter angeknabberte Kekse."
 ---

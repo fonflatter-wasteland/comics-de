@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1802: Very important"
 mouseover: "Und mit einem W sähe es aus, als hätte man die Aufgabe doppelt erledigt."
 ---

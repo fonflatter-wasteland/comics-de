@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1856: Lieber Schöpfer"
 mouseover: "Huch! Stimmt ja. "
 ---

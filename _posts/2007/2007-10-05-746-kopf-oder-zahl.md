@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#746: Kopf oder Zahl"
 ---
 

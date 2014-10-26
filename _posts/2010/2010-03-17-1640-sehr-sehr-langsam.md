@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1640: Sehr sehr langsam"
 ---
 

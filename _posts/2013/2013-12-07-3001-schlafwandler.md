@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#3001: Schlafwandler"
 mouseover: "Der Schlafwandler wandelt Schlaf in den letzten Buchstaben des Alphabets."
 ---

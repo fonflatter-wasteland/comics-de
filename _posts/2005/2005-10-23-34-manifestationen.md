@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#34: Manifestationen"
 ---
 <br />

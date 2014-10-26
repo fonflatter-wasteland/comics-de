@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1409: Wenn du mich ansiehst"
 ---
 

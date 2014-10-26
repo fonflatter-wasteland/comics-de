@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1568: Stell' dir einfach vor"
 ---
 

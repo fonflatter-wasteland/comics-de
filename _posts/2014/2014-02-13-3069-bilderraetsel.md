@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#3069: Bilderrätsel"
 mouseover: "Uh, welch maritimes Rätsel."
 ---

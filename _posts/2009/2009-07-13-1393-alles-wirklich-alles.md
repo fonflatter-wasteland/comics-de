@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1393: Alles, wirklich alles"
 ---
 

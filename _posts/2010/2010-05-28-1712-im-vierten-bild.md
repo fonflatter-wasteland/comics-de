@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1712: Im vierten Bild"
 mouseover: "Alle Comiczeichner lügen."
 ---

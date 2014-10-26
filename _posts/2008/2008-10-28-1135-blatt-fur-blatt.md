@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1135: Blatt für Blatt"
 ---
 

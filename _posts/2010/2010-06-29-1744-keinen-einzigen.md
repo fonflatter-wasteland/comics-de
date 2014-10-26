@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1744: Keinen einzigen"
 mouseover: "Hoffentlich stößt er sich nicht am Browserfensterrahmen."
 ---

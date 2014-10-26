@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#995: In die Zukunft"
 ---
 

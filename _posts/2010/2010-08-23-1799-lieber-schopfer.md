@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1799: Lieber Schöpfer"
 mouseover: "Bei mir hat's auch geklappt."
 ---

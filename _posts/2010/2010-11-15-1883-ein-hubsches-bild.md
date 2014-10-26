@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1883: Ein hübsches Bild"
 mouseover: "Ich erwarte übrigens einen Kommentar mit Udo-Jürgens-Content."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1163: Etwas Besonderes"
 ---
 

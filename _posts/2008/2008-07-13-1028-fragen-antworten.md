@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1028: Fragen &#38; Antworten"
 ---
 

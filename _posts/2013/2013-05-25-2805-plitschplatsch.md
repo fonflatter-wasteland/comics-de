@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#2805: Plitschplatsch"
 mouseover: "Ich glaube, in der Zahl der sichtbaren Regentropfen steckt eine geheime Botschaft. Oder auch nicht."
 ---

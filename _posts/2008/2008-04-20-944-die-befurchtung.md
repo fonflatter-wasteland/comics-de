@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#944: Die Befürchtung"
 ---
 

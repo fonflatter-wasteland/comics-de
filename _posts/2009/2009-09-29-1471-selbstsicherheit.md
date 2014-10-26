@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1471: Selbstsicherheit"
 ---
 

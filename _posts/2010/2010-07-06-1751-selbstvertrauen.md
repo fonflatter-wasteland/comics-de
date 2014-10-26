@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1751: Selbstvertrauen"
 mouseover: "Eigentlich wollte ich statt 'Unterstützung' ein Fremdwort nutzen, fand aber keins. Hätte wohl selbige gebraucht."
 ---

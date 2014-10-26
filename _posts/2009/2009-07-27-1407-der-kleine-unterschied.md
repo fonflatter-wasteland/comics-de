@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1407: Der kleine Unterschied"
 ---
 

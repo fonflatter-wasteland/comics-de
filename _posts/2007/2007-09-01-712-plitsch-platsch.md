@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#712: Plitsch-Platsch"
 ---
 

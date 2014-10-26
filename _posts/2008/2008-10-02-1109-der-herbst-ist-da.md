@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1109: Der Herbst ist da"
 ---
 

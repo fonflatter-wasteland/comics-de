@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1677: In nächster Zeit"
 mouseover: "Wunderschön, prächtig und heiter. Mindestens."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: comic
 title: "#1386: Unsichtbar gezaubert"
 ---
 
