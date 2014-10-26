@@ -1,4 +1,4 @@
 ---
-title: "#1365: Was ich am liebsten mag "
+title: "#1365: Was ich am liebsten mag"
 ---
 
